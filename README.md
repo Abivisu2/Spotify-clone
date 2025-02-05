@@ -1,4 +1,4 @@
-###Imersão Front-end
+Imersão Front-end
 Este projeto surgiu da imersão front-end da Alura, onde foi feito um clone do spotify. 
 Criou-se uma falsa API para armazenar uma lista de artistas, e alguns dos seus dados para facilitar 
 a navegação na para de pesquisa.
